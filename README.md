@@ -12,7 +12,7 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LionzGHG&theme=transparent&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
 </p>
 
-![](https://spotify-recently-played-readme.vercel.app/api?user=31pkty6naf5i6wgjzaryvq2vyn4a&count={10})
+[![](https://spotify-github-profile.vercel.app/api/view?uid=31pkty6naf5i6wgjzaryvq2vyn4a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0c070a&interchange=false&bar_color_cover=true&bar_color=004080)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **LionzGHG/LionzGHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
