@@ -5,7 +5,7 @@
 </p>
 <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=rust,cpp,haskell,kotlin,java,cs,latex,mysql,swift,unreal,unity" />
+        <img src="https://skillicons.dev/icons?i=rust,cpp,haskell,kotlin,java,cs,latex,mysql,swift,unreal,unity,c,zig" />
       </a>
 </p>
 <p align="center">
