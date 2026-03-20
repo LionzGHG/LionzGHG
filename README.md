@@ -6,7 +6,7 @@
     <p> ⭐ Softwareentwicklung seit 1681 </p>
 </p>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LionzGHG&theme=transparent&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Muskoxx&theme=transparent&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
 </p>
 
 [![](https://spotify-github-profile.vercel.app/api/view?uid=31pkty6naf5i6wgjzaryvq2vyn4a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0c070a&interchange=false&bar_color_cover=true&bar_color=004080)](https://github.com/kittinan/spotify-github-profile)
